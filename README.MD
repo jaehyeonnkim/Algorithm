@@ -10,3 +10,4 @@
 - [2563 색종이](https://jenndevlog.tistory.com/17)
 - [2745 진법 변환](https://jenndevlog.tistory.com/22)
 - [2903 중앙 이동 알고리즘](https://jenndevlog.tistory.com/24)
+- [2581 소수](https://jenndevlog.tistory.com/25)
