@@ -1,4 +1,4 @@
-# Algorithm Study ![level](https://img.shields.io/badge/baekjoon-Silver%20V-silver)
+# Algorithm Study ![level](https://img.shields.io/badge/baekjoon-Silver%20IV-silver)
 📌 꾸준한 알고리즘 공부를 위해 백준 문제 풀이를 기록하는 저장소입니다.
 
 - 플랫폼: [백준 온라인 저지 (BOJ)](https://www.acmicpc.net/)
